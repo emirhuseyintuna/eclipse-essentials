@@ -7,4 +7,8 @@ public class Exxamples {
 
 	}
 
+	public void example() {
+
+	}
+
 }
