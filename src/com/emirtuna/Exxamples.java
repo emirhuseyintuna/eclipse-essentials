@@ -8,6 +8,8 @@ public class Exxamples {
 	}
 
 	public void example() {
+
+		string str = "";
 	}
 
 }
